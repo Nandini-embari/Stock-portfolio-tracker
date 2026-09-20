@@ -1,2 +1,2 @@
 # Stock-portfolio-tracker
-A simple Hangman word-guessing game built with Python, featuring interactive gameplay, word guessing, and limited attempts.
+A Python-based stock portfolio tracker for managing stock holdings, tracking prices, and calculating portfolio value.
